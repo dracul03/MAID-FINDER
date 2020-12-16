@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Maid Finder</string>
+    <string name="matte">matte</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="first_slide_title">LOGIN</string>
+    <string name="second_slide_title">MAIDS NEAR YOU</string>
+    <string name="third_slide_title">VERIFIED SERVICE</string>
+    <string name="first_slide_desc">Really easy to register and login</string>
+    <string name="second_slide_desc">Easily know the nearest location of maids</string>
+    <string name="third_slide_desc">The details you see are verified</string>
+    <string name="skip_btn">Skip</string>
+    <string name="Let_get_started">Lets Get started</string>
+    <string name="textview">TextView</string>
+    <string name="heading">Heading</string>
+    <string name="slideimage">slideimage</string>
+    <string name="title_activity_profile">Profile</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+</resources>
